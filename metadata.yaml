@@ -1,0 +1,32 @@
+_repo: The-cycles-of-speculation_75687
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibson, Thomas
+    birthdate: 1868
+    gutenberg_agent_id: '58098'
+    url: http://www.gutenberg.org/2009/agents/58098
+description: ''
+gutenberg_issued: '2025-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75687'
+  lccn: '07037541'
+language: en
+pgterms:marc904: https://archive.org/details/cyclesofspeculat00gibsuoft
+pgterms:marc905: 20220630082943gibson
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Moody Corporation, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speculation'
+- !lcsh 'Financial crises'
+- !lcc 'HG'
+- GITenberg
+title: The cycles of speculation
+url: http://www.gutenberg.org/ebooks/75687
